@@ -25,3 +25,5 @@ jest:(20th)
 2.npm install jest --save
 3.create file "test"--->"app.test".
 4.app.js
+--- npm install
+----npm run test
