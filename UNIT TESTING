@@ -1,6 +1,8 @@
 Testing Frameworks
 ------------------
 Mocha -> for Unit Testing
+chai----->for unit testing
+just ----> for unit testing
 Sinon -> for Unit Testing
 Jasmine -> for Unit Testing
 Karma -> for Unit Testing
