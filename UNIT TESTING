@@ -1,0 +1,7 @@
+Testing Frameworks
+------------------
+Mocha -> for Unit Testing
+Sinon -> for Unit Testing
+Jasmine -> for Unit Testing
+Karma -> for Unit Testing
+Protractor -> for Integration Testing
