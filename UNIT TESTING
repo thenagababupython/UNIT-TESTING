@@ -7,3 +7,21 @@ Sinon -> for Unit Testing
 Jasmine -> for Unit Testing
 Karma -> for Unit Testing
 Protractor -> for Integration Testing
+
+installations:
+==========================================================
+1.npm install --global mocha
+2.npm install chai 
+
+
+to run the test command:
+=============================
+npm run test  (or) npm test
+
+
+jest:(20th)
+============
+1. npm init
+2.npm install jest --save
+3.create file "test"--->"app.test".
+4.app.js
